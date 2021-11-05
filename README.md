@@ -1,2 +1,2 @@
 
-![ex_screenshot](./IMG_0217.JPG)
+![ex_screenshot](./githubBanner.png)
