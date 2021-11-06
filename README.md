@@ -1,2 +1,2 @@
 
-![ex_screenshot](./banner_new.png)
+![ex_screenshot](./banner_new2.png)
