@@ -1,8 +1,17 @@
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=swift&show_icons=true)
-<!-- ![ex_screenshot](./banner_new2.png) -->
+![image](https://user-images.githubusercontent.com/47681139/203945471-44ce8b14-cd7e-4059-a2f6-f46765ed9599.png)
+
+
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast&theme=graywhite)
+
+
+<!-- | JavaScript | TypeScript | 
+| :--------: | :--------: | 
+|   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true)|   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast&theme=graywhite)| -->
