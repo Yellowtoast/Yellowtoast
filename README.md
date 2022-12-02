@@ -4,9 +4,10 @@
 <!-- ![image](https://user-images.githubusercontent.com/47681139/203945471-44ce8b14-cd7e-4059-a2f6-f46765ed9599.png) -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/47681139/203945471-44ce8b14-cd7e-4059-a2f6-f46765ed9599.png">
-  <img src="https://user-images.githubusercontent.com/47681139/205215137-352c6ad6-632b-41b9-9c91-6454c5034234.gif" width="130"></div>  
+  <div align="center"><h3>🛠 My Skills</h3></div>  
+  <img src="https://user-images.githubusercontent.com/47681139/205215137-352c6ad6-632b-41b9-9c91-6454c5034234.gif" width="95"></div>  
 
-<div align="center"><h3>🛠 MY SKILLS</h3></div>  
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF", height="30"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/GetX-5C0EB0?style=flat&logoColor=FFFFFF" height="30">
