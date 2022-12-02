@@ -4,7 +4,7 @@
 <!-- ![image](https://user-images.githubusercontent.com/47681139/203945471-44ce8b14-cd7e-4059-a2f6-f46765ed9599.png) -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/47681139/203945471-44ce8b14-cd7e-4059-a2f6-f46765ed9599.png">
-  <img src="https://user-images.githubusercontent.com/47681139/205215137-352c6ad6-632b-41b9-9c91-6454c5034234.gif" width="180"></div>  
+  <img src="https://user-images.githubusercontent.com/47681139/205215137-352c6ad6-632b-41b9-9c91-6454c5034234.gif" width="130"></div>  
 
 <div align="center"><h3>🛠 MY SKILLS</h3></div>  
 
