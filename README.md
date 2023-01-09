@@ -15,22 +15,26 @@
 
 
 <div align="center">
-&nbsp;<h3>&nbsp;&nbsp;🛠 My Skills</h3>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF", height="25"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF" height="25"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF" height="25"> <img src="https://img.shields.io/badge/GetX-5C0EB0?style=flat&logoColor=FFFFFF" height="25">
+<h3>🛠 My Skills</h3>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF", height="25"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF" height="25"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF" height="25"> <img src="https://img.shields.io/badge/GetX-5C0EB0?style=flat&logoColor=FFFFFF" height="25">
 <br>
 
 </div>
 
 
 
-<br>
+<!-- <h4>  안녕하세요,</h4><h4> 플러터 개발자 강지혜입니다.</h4><h4>  제 Github에 들러주셔서 감사합니다! 🪐</h4><h4>  진행중인 프로젝트들을 천천히 둘러보세요!</h4> -->
+  <br>
+<div align="center">
+  
+안녕하세요 👋🏻 **플러터** 개발자 **강지혜**입니다.  
+제 **Github**에 들러주셔서 감사합니다! 🪐  
+제가 진행중인 프로젝트들을 천천히 둘러보세요!  
+  </div>
+  <br>
 
-<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true"width="470">
 
-
-
-<div style = "float:left;"><img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true"width="450",  align="left">
-<h4>  안녕하세요,</h4><h4> 플러터 개발자 강지혜입니다.</h4><h4>  제 Github에 들러주셔서 감사합니다! 🪐</h4><h4>  진행중인 프로젝트들을 천천히 둘러보세요!</h4>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast&layout=compact" width="395">
 
 </div>
 
