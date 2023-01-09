@@ -32,9 +32,9 @@
   </div>
   <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast&layout=compact" >
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true" width="42%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast&layout=compact" width="35%" >
 
 </div>
 
