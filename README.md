@@ -29,7 +29,7 @@
 
 
 <div style = "float:left;"><img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true", align="left">
-<br><h3>  안녕하세요. 플러터 개발자 강지혜입니다.</h3><h3>  제 Github에 들러주셔서 감사합니다! 🪐</h3><h3>진행중인 프로젝트들을 천천히 둘러보세요!</h3>
+<br><h3>  안녕하세요. 플러터 개발자 강지혜입니다.</h3><h3>  제 Github에 들러주셔서 감사합니다! 🪐</h3><h3>진행중인 프로젝트들을 천천히 둘러보세요!</h3><h3>  </h3>
 </div>
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true)</div>
