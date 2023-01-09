@@ -30,12 +30,10 @@
 
 <div style = "float:left;"><img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true"width="450",  align="left">
 <h4>  안녕하세요,</h4><h4> 플러터 개발자 강지혜입니다.</h4><h4>  제 Github에 들러주셔서 감사합니다! 🪐</h4><h4>  진행중인 프로젝트들을 천천히 둘러보세요!</h4>
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast"> -->
 
 </div>
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true)</div>
-<div style="display:inline-block;vertical-align:top;"> -->
+
  
 
 <br>
