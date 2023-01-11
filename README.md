@@ -28,8 +28,8 @@
   <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true" width="47%" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast&layout=compact" width="39.5%" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true" width="49%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast&layout=compact" width="41.5%" >
 
 </div>
 
