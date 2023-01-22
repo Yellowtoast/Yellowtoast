@@ -5,14 +5,15 @@
  </div>  
 
 
-
-
-
-
+<!-- 
+git 
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF" height="24"> 
+ -->
 
 <div align="center">
-<h3>🛠 My Skills</h3>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF", height="24"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF" height="24"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF" height="24"> <img src="https://img.shields.io/badge/Riverpod-00A3FF?style=flat&logoColor=FFFFFF" height="24">  <img src="https://img.shields.io/badge/Provider-5B80B8?style=flat&logoColor=FFFFFF" height="24">  <img src="https://img.shields.io/badge/GetX-5C0EB0?style=flat&logoColor=FFFFFF" height="24">
+<h3>🛠 My Skills</h3>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF", height="24"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF" height="24">
 <br>
+  <img src="https://img.shields.io/badge/Riverpod-00A3FF?style=flat&logoColor=FFFFFF" height="24">  <img src="https://img.shields.io/badge/Provider-5B80B8?style=flat&logoColor=FFFFFF" height="24">  <img src="https://img.shields.io/badge/GetX-5C0EB0?style=flat&logoColor=FFFFFF" height="24">
 
 </div>
 
