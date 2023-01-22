@@ -5,10 +5,21 @@
  </div>  
 
 
+
+<div align="center">
+  <a href="https://velog.io/@yellowtoast">
+<img src="https://img.shields.io/badge/Velog-19A974?style=flat&logo=Velog&logoColor=FFFFFF", height="24">  </a>
+  <img src="https://img.shields.io/badge/kjh9519@naver.com-EA4335?style=flat&logo=Minutemailer&logoColor=FFFFFF" height="24">
+
+
+</div>
+<br>
+
 <!-- 
 git 
  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF" height="24"> 
  -->
+
 
 <div align="center">
 <h3>🛠 My Skills</h3>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF", height="24"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF" height="24">
