@@ -10,7 +10,7 @@
   <a href="https://velog.io/@yellowtoast" target="_blank">
 <img src="https://img.shields.io/badge/Velog-19A974?style=flat&logo=Velog&logoColor=FFFFFF", height="24">  </a>
     <a href="https://jihye-flutter.notion.site/ecf6be0fae2e4809927a9fe23dda8c6a" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=FFFFFF", height="24">  </a>
+<img src="https://img.shields.io/badge/Portfolio-EA4335?style=flat&logo=Notion&logoColor=FFFFFF", height="24">  </a>
 <!--   <img src="https://img.shields.io/badge/kjh9519@naver.com-EA4335?style=flat&logo=Minutemailer&logoColor=FFFFFF" height="24"> -->
 
 
