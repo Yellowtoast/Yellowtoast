@@ -48,8 +48,8 @@ git
   <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true" width="49%" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast&layout=compact" width="41.5%" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Yellowtoast&theme=graywhite&show_icons=true&rank_icon=github" width="49%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yellowtoast&layout=compact" width="41.7%" >
 
 </div>
 
