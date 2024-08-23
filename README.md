@@ -8,17 +8,18 @@
 
 
 <div align="center">
+  <a target="_blank" href="https://medium.com/@Yellowtoast" >
+  <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=FFFFFF" height="24">
+</a>
   <a target="_blank" href="https://velog.io/@yellowtoast" >
-<img src="https://img.shields.io/badge/Velog-00A98F?style=flat&logo=Velog&logoColor=FFFFFF", height="24">  </a>
-    <a target="_blank" href="https://jihye-flutter.notion.site/ecf6be0fae2e4809927a9fe23dda8c6a" >
-      
-      
+<img src="https://img.shields.io/badge/Velog-00A98F?style=flat&logo=Velog&logoColor=FFFFFF", height="24">  
   </a>
   
-<!--   <img src="https://img.shields.io/badge/Portfolio-EA4335?style=flat&logo=Notion&logoColor=FFFFFF", height="24"> -->
 
   <img src="https://img.shields.io/badge/kjh9519@naver.com-EA4335?style=flat&logo=Minutemailer&logoColor=FFFFFF" height="24">
 
+
+  
 </div>
 <br>
 
